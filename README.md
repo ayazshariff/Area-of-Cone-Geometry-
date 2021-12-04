@@ -13,7 +13,7 @@ r = 10 #cm
 
 b = 3.142 * (r**2)
 
-l = math.sqrt((h**2) + (r**2))
+l = math.sqrt((h^2) + (r^2))
 
 a = b + l
 
